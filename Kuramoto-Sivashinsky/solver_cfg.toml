@@ -1,0 +1,8 @@
+TypeNum = "Float16"
+TypeCom = "ComplexF16"
+nu = 1
+L = 35
+N = 100
+t0 = 0
+tN = 300
+dt = 0.05	

@@ -1,0 +1,6 @@
+N = 100
+Time = 5
+hx = 0.06283185
+ht = 0.00088957
+TypeNym = "Float16"
+scheme = "RK4"
